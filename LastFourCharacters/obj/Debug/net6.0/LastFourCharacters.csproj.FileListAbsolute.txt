@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\BezaoCSharpClass\LastFourCharacters\bin\Debug\net6.0\LastFourCharacters.exe
+C:\Users\hp\Desktop\BezaoCSharpClass\LastFourCharacters\bin\Debug\net6.0\LastFourCharacters.deps.json
+C:\Users\hp\Desktop\BezaoCSharpClass\LastFourCharacters\bin\Debug\net6.0\LastFourCharacters.runtimeconfig.json
+C:\Users\hp\Desktop\BezaoCSharpClass\LastFourCharacters\bin\Debug\net6.0\LastFourCharacters.dll
+C:\Users\hp\Desktop\BezaoCSharpClass\LastFourCharacters\bin\Debug\net6.0\LastFourCharacters.pdb
+C:\Users\hp\Desktop\BezaoCSharpClass\LastFourCharacters\obj\Debug\net6.0\LastFourCharacters.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\BezaoCSharpClass\LastFourCharacters\obj\Debug\net6.0\LastFourCharacters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\BezaoCSharpClass\LastFourCharacters\obj\Debug\net6.0\LastFourCharacters.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\BezaoCSharpClass\LastFourCharacters\obj\Debug\net6.0\LastFourCharacters.AssemblyInfo.cs
+C:\Users\hp\Desktop\BezaoCSharpClass\LastFourCharacters\obj\Debug\net6.0\LastFourCharacters.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\BezaoCSharpClass\LastFourCharacters\obj\Debug\net6.0\LastFourCharacters.dll
+C:\Users\hp\Desktop\BezaoCSharpClass\LastFourCharacters\obj\Debug\net6.0\refint\LastFourCharacters.dll
+C:\Users\hp\Desktop\BezaoCSharpClass\LastFourCharacters\obj\Debug\net6.0\LastFourCharacters.pdb
+C:\Users\hp\Desktop\BezaoCSharpClass\LastFourCharacters\obj\Debug\net6.0\LastFourCharacters.genruntimeconfig.cache
+C:\Users\hp\Desktop\BezaoCSharpClass\LastFourCharacters\obj\Debug\net6.0\ref\LastFourCharacters.dll

@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\BezaoCSharpClass\upperCaseIndex\upperCaseIndex\bin\Debug\net6.0\upperCaseIndex.exe
+C:\Users\hp\Desktop\BezaoCSharpClass\upperCaseIndex\upperCaseIndex\bin\Debug\net6.0\upperCaseIndex.deps.json
+C:\Users\hp\Desktop\BezaoCSharpClass\upperCaseIndex\upperCaseIndex\bin\Debug\net6.0\upperCaseIndex.runtimeconfig.json
+C:\Users\hp\Desktop\BezaoCSharpClass\upperCaseIndex\upperCaseIndex\bin\Debug\net6.0\upperCaseIndex.dll
+C:\Users\hp\Desktop\BezaoCSharpClass\upperCaseIndex\upperCaseIndex\bin\Debug\net6.0\upperCaseIndex.pdb
+C:\Users\hp\Desktop\BezaoCSharpClass\upperCaseIndex\upperCaseIndex\obj\Debug\net6.0\upperCaseIndex.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\BezaoCSharpClass\upperCaseIndex\upperCaseIndex\obj\Debug\net6.0\upperCaseIndex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\BezaoCSharpClass\upperCaseIndex\upperCaseIndex\obj\Debug\net6.0\upperCaseIndex.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\BezaoCSharpClass\upperCaseIndex\upperCaseIndex\obj\Debug\net6.0\upperCaseIndex.AssemblyInfo.cs
+C:\Users\hp\Desktop\BezaoCSharpClass\upperCaseIndex\upperCaseIndex\obj\Debug\net6.0\upperCaseIndex.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\BezaoCSharpClass\upperCaseIndex\upperCaseIndex\obj\Debug\net6.0\upperCaseIndex.dll
+C:\Users\hp\Desktop\BezaoCSharpClass\upperCaseIndex\upperCaseIndex\obj\Debug\net6.0\refint\upperCaseIndex.dll
+C:\Users\hp\Desktop\BezaoCSharpClass\upperCaseIndex\upperCaseIndex\obj\Debug\net6.0\upperCaseIndex.pdb
+C:\Users\hp\Desktop\BezaoCSharpClass\upperCaseIndex\upperCaseIndex\obj\Debug\net6.0\upperCaseIndex.genruntimeconfig.cache
+C:\Users\hp\Desktop\BezaoCSharpClass\upperCaseIndex\upperCaseIndex\obj\Debug\net6.0\ref\upperCaseIndex.dll

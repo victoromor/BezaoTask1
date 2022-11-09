@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\Tasks\DateString\obj\Debug\net6.0\DateString.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Tasks\DateString\obj\Debug\net6.0\DateString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Tasks\DateString\obj\Debug\net6.0\DateString.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Tasks\DateString\obj\Debug\net6.0\DateString.AssemblyInfo.cs
+C:\Users\hp\Desktop\Tasks\DateString\obj\Debug\net6.0\DateString.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Tasks\DateString\bin\Debug\net6.0\DateString.exe
+C:\Users\hp\Desktop\Tasks\DateString\bin\Debug\net6.0\DateString.deps.json
+C:\Users\hp\Desktop\Tasks\DateString\bin\Debug\net6.0\DateString.runtimeconfig.json
+C:\Users\hp\Desktop\Tasks\DateString\bin\Debug\net6.0\DateString.dll
+C:\Users\hp\Desktop\Tasks\DateString\bin\Debug\net6.0\DateString.pdb
+C:\Users\hp\Desktop\Tasks\DateString\obj\Debug\net6.0\DateString.dll
+C:\Users\hp\Desktop\Tasks\DateString\obj\Debug\net6.0\refint\DateString.dll
+C:\Users\hp\Desktop\Tasks\DateString\obj\Debug\net6.0\DateString.pdb
+C:\Users\hp\Desktop\Tasks\DateString\obj\Debug\net6.0\DateString.genruntimeconfig.cache
+C:\Users\hp\Desktop\Tasks\DateString\obj\Debug\net6.0\ref\DateString.dll
